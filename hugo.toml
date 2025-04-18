@@ -1,4 +1,4 @@
-baseURL = 'https://kw.linnav.com/'
+baseURL = 'https://kwnav.pages.dev/'
 languageCode = 'zh-CN'
 title = '林书知识付费导航'
 theme = 'navside'
