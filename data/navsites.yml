@@ -29,6 +29,32 @@
         url: https://tengl.ca/
         description: 独立iOS开发，户外旅行
         logo: liuteng.png
+      - title: 潮流周刊
+        url: https://weekly.tw93.fun/
+        description: 独立开发应用推荐，每周一期
+        logo: chaoliuzhoukan.png
+      - title: 核电站
+        url: https://hwv430.blogspot.com/
+        description: 优质长文转载源，值得阅读
+        logo: hedianzhan.png
+      - title: DocHub 分享优质文档
+        url: https://www.dochub.wiki/
+        description: 优质文章和文档聚合站点
+        logo: dochub.png
+      - title: Tim Blog 每周工作四小时作者
+        url: https://tim.blog/
+        description: 时间管理，工作效率，个人成长
+        logo: fourhour.png
+      - title: 极简生活，反消费主义
+        url: https://earlyretirementextreme.com/
+        description: 早日退休博客
+        logo: earlyretire.png
+      - title: Randy, 优质独立开发程序员
+        url: https://lutaonan.com/
+        description: 一个独立开发程序员
+        logo: randy.png
+
+
 
 - taxonomy: 知识付费
   icon: bi bi-lightbulb
