@@ -21,11 +21,11 @@
   list:
     - term: 优质博客
       links:
-      - title:阮一峰的网络日志
+      - title: 阮一峰的网络日志
         url: https://www.ruanyifeng.com/blog/
         description: 科技爱好者周刊，AI，计算机，互联网推荐
         logo: ruanyifeng.png
-      - title:刘腾的博客
+      - title: 刘腾的博客
         url: https://tengl.ca/
         description: 独立iOS开发，户外旅行
         logo: liuteng.png
